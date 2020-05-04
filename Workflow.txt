@@ -1,0 +1,13 @@
+1. Turn on Ganache
+2. Turn on Sublime Text
+3. Turn on cmd prompt
+4. cd election
+5. Truffle migrate --reset
+6. Open new tab on cmd prompt
+7. npm run dev
+8. Log into Metamask in Chrome browser
+9. Create new account either through "create account" or "import account" using private key from Ganache
+10. Refresh the browser
+11. Vote for a candidate 
+12. Pay the gas fee
+13. Result will be displayed on the screen 

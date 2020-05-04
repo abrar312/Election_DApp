@@ -1,0 +1,6 @@
+The following dependencies are required to run the App
+Node.js: https://nodejs.org/en/
+Truffle: https://www.trufflesuite.com/
+Ganache: https://www.trufflesuite.com/ganache
+Metamask Extension: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+Sublime Text: https://www.sublimetext.com/
